@@ -12,6 +12,8 @@ A Windows download manager with multi-connection downloads, reliable resume, bro
 
 [![Download Golan](https://img.shields.io/github/v/release/dark9guna/golan-download-manager-releases?label=%D8%AA%D9%86%D8%B2%D9%8A%D9%84%20%D8%AC%D9%88%D9%84%D8%A7%D9%86%20%2F%20Download&style=for-the-badge&color=FDD103&labelColor=111111)](https://github.com/dark9guna/golan-download-manager-releases/releases/latest)
 
+[![Source code](https://img.shields.io/badge/%D8%A7%D9%84%D9%83%D9%88%D8%AF%20%D9%85%D9%81%D8%AA%D9%88%D8%AD%20%2F%20Open%20source-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/dark9guna/golan-download-manager)
+
 ---
 
 #### 🛠️ أدوات · Tools
